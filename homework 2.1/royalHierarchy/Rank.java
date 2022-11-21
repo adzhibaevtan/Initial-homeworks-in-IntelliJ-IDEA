@@ -1,0 +1,2 @@
+public enum Rank { KING,QUEEN,KNIGHTLY,CLERGY,SERVANT
+}
