@@ -1,8 +1,6 @@
-package kg.geektech.game.players;
+package game.players;
 
-import kg.geektech.game.general.RPG_Game;
-
-import java.util.Random;
+import game.general.RPG_Game;
 
 public class Boss extends GameEntity {
     private SuperAbility defence;

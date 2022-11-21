@@ -1,6 +1,6 @@
-package kg.geektech.game.players;
+package game.players;
 
-import kg.geektech.game.general.RPG_Game;
+import game.general.RPG_Game;
 
 public class Bastard extends Hero {
     public static int currentBastardHealth;

@@ -1,6 +1,6 @@
-package kg.geektech.game.general;
+package game.general;
 
-import kg.geektech.game.players.*;
+import game.players.*;
 
 import java.util.Random;
 

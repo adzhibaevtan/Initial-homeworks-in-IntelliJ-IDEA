@@ -1,4 +1,4 @@
-package kg.geektech.game.players;
+package game.players;
 
 public abstract class GameEntity {
     private int health;

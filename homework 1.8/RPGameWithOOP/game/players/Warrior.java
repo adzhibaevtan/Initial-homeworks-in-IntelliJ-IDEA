@@ -1,6 +1,6 @@
-package kg.geektech.game.players;
+package game.players;
 
-import kg.geektech.game.general.RPG_Game;
+import game.general.RPG_Game;
 
 public class Warrior extends Hero {
     public Warrior(int health, int damage, String name) {

@@ -1,6 +1,4 @@
-package kg.geektech.game.players;
-
-import kg.geektech.game.general.RPG_Game;
+package game.players;
 
 public class Berserk extends Hero {
 

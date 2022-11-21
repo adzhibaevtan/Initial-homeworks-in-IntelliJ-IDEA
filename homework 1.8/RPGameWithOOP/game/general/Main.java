@@ -1,4 +1,4 @@
-package kg.geektech.game.general;
+package game.general;
 
 public class Main {
 
